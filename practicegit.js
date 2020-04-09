@@ -5,3 +5,5 @@ function speed(mph) {
     console.log(`${mph} is way to fast slow down!`);
   }
 }
+
+console.log(75);
